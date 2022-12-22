@@ -1,8 +1,8 @@
 {
   "tokens": {
-    "main": "",
+    "main": "ODUzMzcxODUwNTQxNDk4MzY5.Gu-_Xn.a8QbJpDonIE6ZSzIm9hh6cS8HKzJcxb_UVkIx0",
     "alts": [
-      ""
+      "MTA0OTQ0NjI2NDAyODI4MjkxMA.Gqfjjf.JG9FclN0l30ddfsgDJSuj3aDS5Cb8okcfkAkA0"
     ]
   },
   "status": {
@@ -43,7 +43,7 @@
     "enable": false
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/1055319166485266495/dk7PMZgO4kZ-7yFs0Nt-lQjDKEu8laILWOZ9H128ax87uGcGom5Ug5xGqNuivNigzr9R",
     "good_only": false
   },
   "blacklist_servers": []
